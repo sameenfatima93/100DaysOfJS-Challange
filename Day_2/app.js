@@ -44,6 +44,7 @@ var userNum = +prompt("Enter Three digit code")
 if(userNum === 786){
     alert("your code is correct")
 }
+// number ko number sy compair kia jata hy
 
 // if(userNum === "786"){
 //     alert("your code is correct")
